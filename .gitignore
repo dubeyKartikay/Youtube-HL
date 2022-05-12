@@ -1,0 +1,6 @@
+*.pyc
+key.txt
+Procfile
+virtual/
+requirements.txt
+resources.pdf
